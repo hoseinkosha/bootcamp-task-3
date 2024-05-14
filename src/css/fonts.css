@@ -1,0 +1,56 @@
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: bold;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Bold.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Thin.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Light.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Regular.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Medium.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-ExtraBold.woff2")
+      format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/assets/fonts/Vizier/woff2/Vazirmatn-Black.woff2") format("woff2"),
+    url("/assets/fonts/Vizier/ttf/Vazirmatn-Black.ttf") format("truetype");
+}
